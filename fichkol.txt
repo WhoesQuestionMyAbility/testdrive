@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 print ("new awesome guideline or smth coolish stuff for u, dog")
 print ("u can si wut we giva to ya")
+=======
+print ("new awesome guideline or smth coolish stuff for u, dog")
+>>>>>>> 901650b80690840dfee7f92e573d90b8f4d7b92e
