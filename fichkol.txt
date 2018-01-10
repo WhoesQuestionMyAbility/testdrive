@@ -1,0 +1,1 @@
+print ("new awesome guideline or smth coolish stuff for u, dog")
